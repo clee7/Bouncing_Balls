@@ -1,5 +1,5 @@
 # Bouncing_Balls
-This module simulates colored balls (circles) bouncing within a carvas.
+This module simulates colored balls (circles) bouncing within a canvas.
 
 Key:
 "+" and "-" add and remove a ball from the canvas respectively.
